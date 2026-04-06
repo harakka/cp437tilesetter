@@ -1,0 +1,4 @@
+NAME: terminus_overmap
+VIEW: Terminus Overmap
+JSON: tile_config.json
+TILESET: fallback.png
